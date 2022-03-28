@@ -19,6 +19,7 @@ github exercise demo repo
 3. Chocolate
 4. Sunlight
 5. Good friends
+6. OLS
 
 Here is a [link to an image](https://openlifesci.org/images/logo.png)
 
