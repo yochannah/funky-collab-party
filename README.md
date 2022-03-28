@@ -18,6 +18,7 @@ github exercise demo repo
 7. Violets 
 3. Chocolate
 4. Sunlight
+5. Good friends
 
 Here is a [link to an image](https://openlifesci.org/images/logo.png)
 
